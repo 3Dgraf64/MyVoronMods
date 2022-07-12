@@ -9,4 +9,4 @@ Here are the descriptions of the different STL files that you will find in the f
 -   "Jupe avant a avec switch voron bleue-Body.stl" is the front right skirt from which I removed 1 mm from the top and blanked/drilled holes in two hexagons.
 -   "rondelle voron.stl" are spacers used between the stock bottom panel and the sheet metal base plate.  There are four of them.
 -   "Tay cable voron bleue-TrayFillet002.stl and "Tray cable voron bleue-Couvercle.stl" is the L-shaped cable tray on the base plate.
--   "
+-   "Tay cable voron bleue-Couvercle tiroir.stl", "Tray cable voron bleue-Body tiroir court.stl", "Tray cable voron bleue-Body tiroir" and "Tray cable voron bleue-Couvercle tiroir court.stl" are the drawer's cable trays
